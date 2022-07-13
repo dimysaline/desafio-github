@@ -2,4 +2,4 @@
 Desafio de Projeto Git/Github
 
 ## Links Úteis
-<a href="https://markdown.net.br/sintaxe-basica/"></a>
+https://markdown.net.br/sintaxe-basica/
